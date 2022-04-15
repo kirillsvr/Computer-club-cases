@@ -1,0 +1,4 @@
+/vendor/composer
+/.idea
+/.vscode
+/config/init.php

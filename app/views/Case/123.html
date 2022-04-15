@@ -1,0 +1,50 @@
+*   Trying 62.84.117.83:443...
+* Connected to checkpointekb.app.enes.tech (62.84.117.83) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: e:/openserver8/userdata/config/cacert.pem
+*  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=*.bebooking.enes.tech
+*  start date: Sep 22 05:18:08 2021 GMT
+*  expire date: Dec 21 05:18:07 2021 GMT
+*  subjectAltName: host "checkpointekb.app.enes.tech" matched cert's "*.app.enes.tech"
+*  issuer: C=US; O=Let's Encrypt; CN=R3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x14dbbb0cee0)
+> POST /api/v2/shop/cart/ HTTP/2
+Host: checkpointekb.app.enes.tech
+accept: text/html, text/xml,application/xml,application/xhtml+xml, application/json,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+cache-control: max-age=0
+connection: keep-alive
+keep-alive: 300
+accept-charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+accept-language: en-us,en;q=0.5
+pragma: no-cache
+pragma: no-cache
+referer: https://checkpointekb.admin.enes.tech/
+origin: https://checkpointekb.admin.enes.tech
+authorization: Token eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cyI6MTgyMzg4MywiZXMiOjI4MiwiYSI6MSwidSI6MX0.HwndOo2hs6gZpbrq7Fn62FV5k93DATndD--TzNUQsts
+content-length: 335
+content-type: multipart/form-data; boundary=------------------------81273b01ace16e66
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+* We are completely uploaded and fine
+< HTTP/2 500
+< server: nginx/1.17.3
+< date: Wed, 03 Nov 2021 17:09:31 GMT
+< content-type: application/json
+< content-length: 41
+< allow: OPTIONS, POST
+< x-enes-version: 2.2
+< vary: Accept-Language, Cookie
+< content-language: ru
+< access-control-allow-origin: *
+<
+* Connection #0 to host checkpointekb.app.enes.tech left intact
