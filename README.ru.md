@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/kirillsvr/Computer-club-cases.git">English</a> |
+  <a href="https://github.com/kirillsvr/Computer-club-cases">English</a> |
   <span>Pусский</span>
 </p>
 
