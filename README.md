@@ -1,3 +1,7 @@
+![Header](https://github.com/kirillsvr/Computer-club-cases/raw/main/public/images/presentation.jpg)
+
+<br>
+
 This website was created for a computer club and is a win-win lottery for customers.
 
 ## The tasks that I faced
