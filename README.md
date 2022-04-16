@@ -4,7 +4,7 @@
 
 <p align="center">
   <span>English</span> |
-  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/russian#fullpagejs">Pусский</a>
+  <a href="https://github.com/kirillsvr/Computer-club-cases/blob/79f413c0b4dbd9b5f7adfd6dd3a226a4a402b0bd/README.ru.md">Pусский</a>
 </p>
 
 <br>
