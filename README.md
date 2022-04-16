@@ -2,6 +2,13 @@
 
 <br>
 
+<p align="center">
+  <span>English</span> |
+  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/russian#fullpagejs">Pусский</a>
+</p>
+
+<br>
+
 This website was created for a computer club and is a win-win lottery for customers.
 
 ## The tasks that I faced
