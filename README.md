@@ -58,7 +58,7 @@ Since SENET does not have an open API that allows crediting the balance to custo
 
 If you want to participate in the lottery yourself, then you need to do the following
 
-1. Go to the website - [Cooking Blog](https://github.com/laravel/laravel)
+1. Go to the website - [Computer club cases](http://example.checkpointekb.ru/)
 2. Pass authorization
 ```
 Login - admin

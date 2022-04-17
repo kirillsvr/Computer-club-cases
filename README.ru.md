@@ -58,7 +58,7 @@
 
 Если вы хотите сами поучаствовать в лотереи, то вам необходимо сделать следующее:
 
-1. Перейти на сайт - [Cooking Blog](https://github.com/laravel/laravel)
+1. Перейти на сайт - [Computer club cases](http://example.checkpointekb.ru/)
 2. Пройти авторизацию
 ```
 Логин - admin
